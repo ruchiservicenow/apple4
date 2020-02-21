@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="apple4name" label="Apple4name" language="en" table="sn_apple4_apple4table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>apple4name</element>
+            <help/>
+            <hint/>
+            <label>Apple4name</label>
+            <language>en</language>
+            <name>sn_apple4_apple4table</name>
+            <plural>Apple4names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:32:00</sys_created_on>
+            <sys_id>e67adb5a19b68010f87779baf659d371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Apple4name</sys_name>
+            <sys_package display_value="apple4" source="sn_apple4">b03a1b5a19b68010f87779baf659d34f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="apple4">b03a1b5a19b68010f87779baf659d34f</sys_scope>
+            <sys_update_name>sys_documentation_sn_apple4_apple4table_apple4name_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:32:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
